@@ -15,7 +15,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/naver/nam-sdk-ios.git",
-            from: "8.20.0"
+            "8.20.0"..<"8.23.0"
         ),
         .package(
             url: "https://github.com/Nasmedia-Tech/iOS-SSP-Mediation-SPM.git",
