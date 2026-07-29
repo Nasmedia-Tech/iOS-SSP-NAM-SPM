@@ -25,8 +25,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdMixerMediationNAMBinary",
-            url: "https://github.com/Nasmedia-Tech/iOS-SSP-NAM-SPM/releases/download/1.3.1/AdMixerMediationNAM1.3.1.xcframework.zip",
-            checksum: "7c59903823f79154b3a1d1f0047d38a8dc464ccbf20966bf2ba3b41a18641353"
+            url: "https://github.com/Nasmedia-Tech/iOS-SSP-NAM-SPM/releases/download/1.3.2/AdMixerMediationNAM1.3.2.xcframework.zip",
+            checksum: "cb9e1d2496aed68cdefd8f29abf792681741d73996c244bc304f4d3e68ded856"
         ),
         .target(
             name: "iOS_SSP_NAM_SPM",
